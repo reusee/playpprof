@@ -1,0 +1,4 @@
+github.com/google/pprof v0.0.0-20230207041349-798e818bf904 h1:4/hN5RUoecvl+RmJRE2YxKWtnnQls6rQjjW5oV7qg2U=
+github.com/google/pprof v0.0.0-20230207041349-798e818bf904/go.mod h1:uglQLonpP8qtYCYyzA+8c/9qtqgA3qsXGYqCPKARAFg=
+github.com/reusee/e5 v0.0.0-20230128094953-f2ff5c9c135a h1:gOeS2tmVYJq2ly5wbaQOk4x7Ubmxk39i+vgog279+wE=
+github.com/reusee/e5 v0.0.0-20230128094953-f2ff5c9c135a/go.mod h1:kfVSDXYZocDqR1uRQfewKHmcLa/QtjGl/Ik0/vqhZ4s=
